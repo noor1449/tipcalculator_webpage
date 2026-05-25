@@ -1,3 +1,5 @@
+###  link to run page:
+https://noor1449.github.io/tipcalculator_webpage/index.html
 ### 1. How to Run
 To run this project on a fresh machine, follow these steps\[cite: 8]:
 1. Make a folder/directory in vscode named tip calculator.
