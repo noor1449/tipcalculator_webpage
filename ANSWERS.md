@@ -3,7 +3,7 @@ https://noor1449.github.io/tipcalculator_webpage/index.html
 OR
 https://6a148ee11fc19be887e2d93b--super-creponne-dc2a59.netlify.app/
 ### 1. How to Run
-To run this project on a fresh machine, follow these steps\[cite: 8]:
+To run this project on a fresh machine, these steps are followed:
 1. Make a folder/directory in vscode named tip calculator.
 2. Ensured that `index.html`, `style.css`, `file.js`, `READMe.md.js`and `ANSWERS.md` are all stored in the exact same directory.
 3. Simply double-click `index.html` or open it using any modern web browser (e.g., Google Chrome,etc) to run the application entirely locally. No installation commands or local development servers are required.
